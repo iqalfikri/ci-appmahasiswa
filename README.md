@@ -5,10 +5,10 @@ This website is built with php framework (<b>Codeigniter v3</b>) + <b>bootstrap 
 Website Preview<br>
 <img src="assets/img/ss-1.png"></img>
 <br><br>
-<b>CRUD</b> Students Features
+<b>CRUD</b> Students Features<br>
 <img src="assets/img/ss-4.png"></img>
 <br><br>
-<b>CRUD</b> Peoples Features
+<b>CRUD</b> Peoples Features<br>
 <img src="assets/img/ss-9.png"></img>
 <br><br>
 <img src="assets/img/ss-10.png"></img>
